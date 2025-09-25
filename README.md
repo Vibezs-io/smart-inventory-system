@@ -1,5 +1,10 @@
 # Smart Inventory System
 
+<div align="center">
+  <img src="public/logo.png" alt="Logo" width="200" height="200" style="border-radius: 20px; margin-bottom: 20px;" />
+</div>
+
+
 ![CADIS Generated](https://img.shields.io/badge/Generated%20by-CADIS-blue?style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
